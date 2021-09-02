@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "poste": "Stage developpeur C#",
+    "company": "Agro-alimentaire",
+    "place": "Montélimar",
+    "dateStart": "2020-04-04T00:00:00.000Z",
+    "dateEnd": "2020-08-30T00:00:00.000Z",
+    "description": "Developpé une application pour les fermes de la régions"
+  },
+  {
+    "id": 2,
+    "poste": "The Hacking Project",
+    "company": "The Hacking Project",
+    "place": "Lyon",
+    "dateStart": "2019-10-14T00:00:00.000Z",
+    "dateEnd": "2019-12-30T00:00:00.000Z",
+    "description": "Developpé des application en ruby"
+  },
+  {
+    "id": 3,
+    "poste": "Ecole 42",
+    "company": "Ecole 42",
+    "place": "Lyon",
+    "dateStart": "2019-08-01T00:00:00.000Z",
+    "dateEnd": "2019-08-30T00:00:00.000Z",
+    "description": "Developpé des applications en C et C++"
+  }
+]

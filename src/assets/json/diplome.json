@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "diplome": "licence informatique",
+    "school": "Afip",
+    "place": "villeurbanne",
+    "gratuatedDate": "14-10-2019",
+    "resume": "Développement des application en C#, android, java et java jee"
+  },
+  {
+    "id": 2,
+    "diplome": "The Hacking project",
+    "school": "The Hacking project",
+    "place": "lyon",
+    "gratuatedDate": "14-10-2019",
+    "resume": "Apprendre le langage Ruby, faire des exo avec projets à faire."
+  },
+  {
+    "id": 4,
+    "diplome": "Piscine école 101",
+    "school": "école 101 (42)",
+    "place": "lyon",
+    "gratuatedDate": "14-10-2019",
+    "resume": "Apprendre à développé avec le langage C et C++"
+  },
+  {
+    "id": 3,
+    "diplome": "Baccalaurérat Professionnel Mécanique autaumobile",
+    "school": "Lycée de l'automobile",
+    "place": "Bron",
+    "gratuatedDate": "04-09-2015",
+    "resume": "Techniciens de véhicule particulier"
+  }
+]

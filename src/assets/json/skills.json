@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Java",
+    "level": 5
+  },
+  {
+    "id": 2,
+    "name": "C#",
+    "level": 3
+  },
+  {
+    "id": 3,
+    "name": "JEE",
+    "level": 3
+  },
+  {
+    "id": 4,
+    "name": "Android",
+    "level": 3
+  },
+  {
+    "id": 5,
+    "name": "Unity",
+    "level": 3
+  },
+  {
+    "id": 6,
+    "name": "angular",
+    "level": 3
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "langue": "Anglais",
+    "level": "Scolaire"
+  },
+  {
+    "id": 2,
+    "langue": "Arabe",
+    "level": "Scolaire"
+  },
+  {
+    "id": 3,
+    "langue": "Français",
+    "level": "Maternelle"
+  }
+]
