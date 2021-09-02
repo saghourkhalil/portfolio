@@ -165,8 +165,11 @@
     </div>
     <div class="timeline" data-aos="fade-down" data-aos-delay="300">
       <ul>
-        <li *ngFor="let diplome of diplomeList" class="date" data-date="2011-now">
+        <li *ngFor="let diplome of diplomeList" class="date" >
           <h1>{{ diplome.school }}</h1>
+          <p>
+            {{ diplome.gratuatedDate | date: 'MMMM y'}}
+          </p>
           <p>
             {{ diplome.resume }}
           </p>
